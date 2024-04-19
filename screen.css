@@ -55,6 +55,17 @@ li a {
     text-wrap: wrap;
     max-width: 100px;
   }
-  .latest {
+  .programs ul {
+    display: inline;
+    text-wrap: wrap;
+  }
+  .latesttitle {
     margin-top: 200px;
   }
+.books ul {
+  display: flex;
+  text-wrap: wrap;
+  max-width: 250px;
+  text-align: center;
+  padding: 20px;
+}
