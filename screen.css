@@ -10,18 +10,27 @@ ul {
     margin: 0;
     padding: 0;
     background-color: #FFFFFF;
+    width: 100%;
 }
 li {
     display: inline;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #FFFFFF;
+    color:black;
 }
 li a {
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   li a:hover {
-    background-color: #111;
+    background-color: #60D0C3;
+  }
+  .active {
+    background-color: #60D0C3;
+  }
+  .hero img {
+    width: 100%;
+    margin-top: 20px;
   }
