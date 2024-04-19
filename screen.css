@@ -50,3 +50,6 @@ li a {
     color: black;
     cursor: pointer;
   }
+  .latest {
+    margin-top: 200px;
+  }
