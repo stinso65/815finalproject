@@ -75,3 +75,7 @@ li a {
 .servicedetails ul {
   list-style: circle;
 }
+.libraryinfo {
+  background-color: #79E8DB;
+  display: flex;
+}
