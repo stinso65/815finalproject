@@ -50,6 +50,11 @@ li a {
     color: black;
     cursor: pointer;
   }
+  .announcements ul {
+    display: flex;
+    text-wrap: wrap;
+    max-width: 100px;
+  }
   .latest {
     margin-top: 200px;
   }
