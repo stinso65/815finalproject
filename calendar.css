@@ -69,4 +69,11 @@ button:hover {
     text-align: left;
     text-wrap: wrap;
   }
-
+.event1 p {
+    padding-left: 30px;
+    display: inline-block;
+}
+h3 {
+    padding-left: 30px;
+    margin: 0;
+}
