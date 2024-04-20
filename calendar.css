@@ -49,6 +49,10 @@ li a {
     color: black;
     cursor: pointer;
   }
+  .filters {
+    display: inline-block;
+  }
   .filters p {
+    display: inline-block;
     font-size: small;
   }
