@@ -7,11 +7,16 @@ nav {
   align-items: center;
 }
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: #FFFFFF;
-    width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF;
+  width: 100%;
+  margin-left: 1150px;
+  position: absolute;
+}
+h1 {
+  font-size: larger;
 }
 li {
     display: inline;
