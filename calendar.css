@@ -31,9 +31,11 @@ li a {
   }
 li a:hover {
     background-color: #60D0C3;
+    border-radius: 10px;
   }
 .active {
     background-color: #60D0C3;
+    border-radius: 10px;
   }
 .hero img {
     width: 100%;

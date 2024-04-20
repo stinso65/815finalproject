@@ -30,11 +30,13 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
   }
-  li a:hover {
+li a:hover {
     background-color: #60D0C3;
+    border-radius: 10px;
   }
 .active {
     background-color: #60D0C3;
+    border-radius: 10px;
   }
 .hero img {
     width: 100%;
@@ -58,12 +60,14 @@ button:hover {
   }
 .announcements ul {
     display: flex;
+    flex-direction: row;
     text-wrap: wrap;
-    max-width: 100px;
+    max-width: 200px;
   }
 .programs ul {
     display: inline;
     text-wrap: wrap;
+    max-width: 100px;
   }
 .latesttitle {
     margin-top: 100px;
