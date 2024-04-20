@@ -3,7 +3,8 @@ a.active {
     font-weight: bold;
 }
 nav {
-    display: inline;
+  display: inline-flex;
+  align-items: center;
 }
 ul {
     list-style-type: none;
