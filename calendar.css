@@ -1,0 +1,54 @@
+a.active {
+    font-weight: bold;
+}
+nav {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+li {
+    display: inline;
+    padding: 8px;
+    background-color: #FFFFFF;
+    color:black;
+}
+li a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #60D0C3;
+  }
+  .active {
+    background-color: #60D0C3;
+  }
+  .hero img {
+    width: 100%;
+    margin-top: 20px;
+  }
+  button {
+  background-color: #F5F5F5;
+  border: none;
+  border-radius: 10px;
+  color: black;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  }
+  button:hover {
+    background-color: #60D0C3;
+    color: black;
+    cursor: pointer;
+  }
+  .filters p {
+    font-size: small;
+  }
