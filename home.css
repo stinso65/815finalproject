@@ -62,7 +62,7 @@ button:hover {
     display: flex;
     flex-direction: row;
     text-wrap: wrap;
-    max-width: 200px;
+    max-width: 100px;
   }
 .programs ul {
     display: inline;
