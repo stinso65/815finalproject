@@ -76,5 +76,6 @@ button:hover {
 }
 h3 {
     padding-left: 30px;
-    margin: 0;
+    margin-bottom: 0;
+    font-size: x-large;
 }
