@@ -29,17 +29,17 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
   }
-  li a:hover {
+li a:hover {
     background-color: #60D0C3;
   }
-  .active {
+.active {
     background-color: #60D0C3;
   }
-  .hero img {
+.hero img {
     width: 100%;
     margin-top: 20px;
   }
-  button {
+button {
   background-color: #F5F5F5;
   border: none;
   border-radius: 10px;
@@ -50,15 +50,23 @@ li a {
   display: inline-block;
   font-size: 12px;
   }
-  button:hover {
+button:hover {
     background-color: #60D0C3;
     color: black;
     cursor: pointer;
   }
-  .filters {
+.filters {
     display: inline-block;
   }
-  .filters p {
+.filters p {
     display: inline-block;
     font-size: small;
   }
+  .event1 {
+    padding-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    text-wrap: wrap;
+  }
+

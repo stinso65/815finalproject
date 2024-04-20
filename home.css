@@ -33,14 +33,14 @@ li a {
   li a:hover {
     background-color: #60D0C3;
   }
-  .active {
+.active {
     background-color: #60D0C3;
   }
-  .hero img {
+.hero img {
     width: 100%;
     margin-top: 20px;
   }
-  button {
+button {
   background-color: #F5F5F5;
   border: none;
   border-radius: 10px;
@@ -51,21 +51,21 @@ li a {
   display: inline-block;
   font-size: 12px;
   }
-  button:hover {
+button:hover {
     background-color: #60D0C3;
     color: black;
     cursor: pointer;
   }
-  .announcements ul {
+.announcements ul {
     display: flex;
     text-wrap: wrap;
     max-width: 100px;
   }
-  .programs ul {
+.programs ul {
     display: inline;
     text-wrap: wrap;
   }
-  .latesttitle {
+.latesttitle {
     margin-top: 100px;
   }
 .books ul {
