@@ -238,6 +238,9 @@ mark {
 ol li,
 ul li {
     padding: 0.2rem 0;
+    list-style: none;
+    display: inline;
+    text-decoration: none;
 }
 
 p {
