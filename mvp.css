@@ -465,6 +465,7 @@ table {
     overflow-x: auto;
     padding: 0;
     white-space: nowrap;
+    width: 600px;
 }
 
 table td,
@@ -472,6 +473,7 @@ table th,
 table tr {
     padding: 0.4rem 0.8rem;
     text-align: var(--justify-important);
+    width: 600px;
 }
 
 table thead {
@@ -481,23 +483,28 @@ table thead {
     color: var(--color-bg);
     margin: 0;
     padding: 0;
+    width: 600px;
 }
 
 table thead tr:first-child th:first-child {
     border-top-left-radius: var(--border-radius);
+    width: 600px;
 }
 
 table thead tr:first-child th:last-child {
     border-top-right-radius: var(--border-radius);
+    width: 600px;
 }
 
 table thead th:first-child,
 table tr td:first-child {
     text-align: var(--justify-normal);
+    width: 600px;
 }
 
 table tr:nth-child(even) {
     background-color: var(--color-accent);
+    width: 600px;
 }
 
 /* Quotes */
