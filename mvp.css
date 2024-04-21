@@ -150,7 +150,7 @@ nav {
     display: flex;
     font-weight: bold;
     justify-content: space-between;
-    margin-bottom: 7rem;
+    margin-bottom: 2rem;
 }
 
 nav ul {
@@ -241,6 +241,12 @@ ul li {
     list-style: none;
     display: inline-block;
     text-decoration: none;
+}
+.announcements ul li {
+    width: 150px;
+    align-items: top;
+    padding: 10px;
+    text-align: center;
 }
 
 p {
