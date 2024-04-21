@@ -241,6 +241,7 @@ ul li {
     list-style: none;
     display: inline;
     text-decoration: none;
+    width: 100px;
 }
 
 p {
