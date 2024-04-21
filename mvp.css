@@ -248,6 +248,16 @@ ul li {
     padding: 10px;
     text-align: center;
 }
+.programs ul li {
+    display: inline;
+    width: 150px;
+    align-items: top;
+    text-align: left;
+}
+table p {
+    width: 100%;
+    text-wrap: wrap;
+}
 
 p {
     margin: 0.75rem 0;
