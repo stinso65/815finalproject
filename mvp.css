@@ -239,9 +239,8 @@ ol li,
 ul li {
     padding: 0.2rem 0;
     list-style: none;
-    display: inline;
+    display: inline-block;
     text-decoration: none;
-    width: 100px;
 }
 
 p {
