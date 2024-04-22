@@ -262,6 +262,9 @@ table p {
     width: 500px;
     display: block;
 }
+.latesttitle u {
+    color: #0097fc;
+}
 
 p {
     margin: 0.75rem 0;
