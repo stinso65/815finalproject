@@ -309,7 +309,7 @@ li u {
 .libraryinfo ul li {
     margin-right: 50px;
     position: relative;
-    left: 875px;
+    left: 475px;
     font-size: smaller;
 }
 .bottomnav {
@@ -320,6 +320,12 @@ li u {
 }
 .filters {
     margin-left: 30px;
+}
+.contact {
+    float: left;
+    left: 530px;
+    bottom: 430px;
+    position: relative;
 }
 p {
     margin: 0.75rem 0;
