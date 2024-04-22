@@ -242,6 +242,10 @@ ul li {
     display: inline-block;
     text-decoration: none;
 }
+.main1 div {
+    display: inline-block;
+    vertical-align: text-top;
+}
 .announcements ul li {
     width: 150px;
     align-items: top;
@@ -259,8 +263,12 @@ table p {
     text-wrap: wrap;
 }
 .programs table {
-    width: 500px;
+    width: 650px;
     display: block;
+    margin-left: 30px;
+}
+h2 {
+    margin-left: 30px;
 }
 .latesttitle u {
     color: #0097fc;
