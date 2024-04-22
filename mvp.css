@@ -309,6 +309,9 @@ li u {
 .libraryinfo {
     background-color: #60D0C3;
 }
+.filters {
+    margin-left: 30px;
+}
 p {
     margin: 0.75rem 0;
     padding: 0;
