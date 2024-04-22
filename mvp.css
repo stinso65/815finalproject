@@ -258,6 +258,10 @@ table p {
     width: 100%;
     text-wrap: wrap;
 }
+.programs table {
+    width: 500px;
+    display: block;
+}
 
 p {
     margin: 0.75rem 0;
