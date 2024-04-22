@@ -284,6 +284,9 @@ li u {
     text-align: center;
     vertical-align: text-top;
 }
+.ourservices ul li {
+    padding-right: 30px;
+}
 .servicedetails table {
     width: 890px;
     display: block;
@@ -300,11 +303,17 @@ li u {
     position: relative;
     left: 900px;
 }
+.digitalservices ul li {
+    padding-right: 30px;
+}
 .libraryinfo ul li {
     margin-right: 50px;
     position: relative;
     left: 875px;
     font-size: smaller;
+}
+.bottomnav {
+    width: 100%;
 }
 .libraryinfo {
     background-color: #60D0C3;
