@@ -273,6 +273,7 @@ h2 {
 .main1 button {
     position: relative;
     left: 1150px;
+    margin-bottom: 100px;
 }
 li u {
     color: #0097fc;
@@ -283,6 +284,7 @@ li u {
     padding: 10px;
     text-align: center;
     vertical-align: text-top;
+    margin-bottom: 100px;
 }
 .ourservices ul li {
     padding-right: 30px;
@@ -293,11 +295,17 @@ li u {
     margin-left: 30px;
     text-wrap: wrap;
 }
+.servicedetails {
+    margin-bottom: 100px;
+}
 .digitalservices table {
     width: 98%;
     display: block;
     margin-left: 30px;
     text-wrap: wrap;
+}
+.digitalservices {
+    margin-top: 100px;
 }
 .digitalservices button {
     position: relative;
@@ -314,6 +322,8 @@ li u {
 }
 .bottomnav {
     width: 100%;
+    margin-top: 100px;
+    margin-bottom: 0%;
 }
 .libraryinfo {
     background-color: #60D0C3;
