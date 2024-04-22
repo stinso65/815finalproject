@@ -270,6 +270,10 @@ table p {
 h2 {
     margin-left: 30px;
 }
+.main1 button {
+    position: relative;
+    left: 1150px;
+}
 .latesttitle u {
     color: #0097fc;
 }
